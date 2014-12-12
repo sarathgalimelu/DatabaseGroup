@@ -1,0 +1,668 @@
+{"article": {
+"bibliography": {
+"volume": 4,
+"journal-id": "Front. Neurosci.",
+"article-doi": "10.3389/fnins.2010.00188",
+"article-pub-year": 2010,
+"publisher-name": "Frontiers Research Foundation",
+"author": [
+{
+"surname": "Noordzij",
+"given-name": "Matthijs L."
+},
+{
+"surname": "Newman-Norlund",
+"given-name": "Sarah E."
+},
+{
+"surname": "de Ruiter",
+"given-name": "Jan Peter"
+},
+{
+"surname": "Hagoort",
+"given-name": "Peter"
+},
+{
+"surname": "Levinson",
+"given-name": "Stephen C."
+},
+{
+"surname": "Toni",
+"given-name": "Ivan"
+}
+],
+"journal-title": "Frontiers in Neuroscience",
+"journal-title-PLOS": "",
+"kwd-group": {"kwd": [
+"fMRI",
+"joint action",
+"intention recognition"
+]},
+"article-publisher-id": "",
+"article-title": "Neural Correlates of Intentional Communication",
+"abstract": "We know a great deal about the neurophysiological mechanisms supporting instrumental actions, i.e., actions designed to alter the physical state of the environment. In contrast, little is known about our ability to select communicative actions, i.e., actions directly designed to modify the mental state of another agent. We have recently provided novel empirical evidence for a mechanism in which a communicator selects his actions on the basis of a prediction of the communicative intentions that an addressee is most likely to attribute to those actions. The main novelty of those findings was that this prediction of intention recognition is cerebrally implemented within the intention recognition system of the communicator, is modulated by the ambiguity in meaning of the communicative acts, and not by their sensorimotor complexity. The characteristics of this predictive mechanism support the notion that human communicative abilities are distinct from both sensorimotor and linguistic processes."
+},
+"References": {"Ref": [
+{
+"Year": 2009,
+"Volume": 60,
+"Author": "",
+"Article-title": "The social brain: neural basis of social knowledge",
+"Source": "Annu. Rev. Psychol."
+},
+{
+"Year": 2001,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœMaking sense of human behavior: action parsing and intentional inference,â\u20ac?",
+"Source": "Intentions and Intentionality: Foundations of Social Cognition"
+},
+{
+"Year": 2009,
+"Volume": 113,
+"Author": "",
+"Article-title": "Action understanding as inverse planning",
+"Source": "Cognition"
+},
+{
+"Year": 2001,
+"Volume": 5,
+"Author": "",
+"Article-title": "Discerning intentions in dynamic human action",
+"Source": "Trends Cogn. Sci."
+},
+{
+"Year": 1996,
+"Volume": 71,
+"Author": "",
+"Article-title": "Automaticity of social behavior: direct effects of trait construct and stereotype-activation on action",
+"Source": "J. Pers. Soc. Psychol."
+},
+{
+"Year": 1995,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœThe eye direction detector (EDD) and the shared attention mechanism (SAM): two cases for evolutionary psychology,â\u20ac?",
+"Source": "Joint Attention: Its Origins and Role in Development"
+},
+{
+"Year": 2009,
+"Volume": 324,
+"Author": "",
+"Article-title": "The computation of social behavior",
+"Source": "Science"
+},
+{
+"Year": 2002,
+"Volume": 99,
+"Author": "",
+"Article-title": "Perception of biological motion without local image motion",
+"Source": "Proc. Natl. Acad. Sci. U.S.A."
+},
+{
+"Year": 1993,
+"Volume": 4,
+"Author": "",
+"Article-title": "Cats perceive biological motion",
+"Source": "Psychol. Sci."
+},
+{
+"Year": 1995,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "The Thinking Ape: Evolutionary Origins of Intelligence"
+},
+{
+"Year": 2006,
+"Volume": 16,
+"Author": "",
+"Article-title": "Why are animals cognitive?",
+"Source": "Curr. Biol."
+},
+{
+"Year": 2008,
+"Volume": 12,
+"Author": "",
+"Article-title": "Does the chimpanzee have a theory of mind? 30 years later",
+"Source": "Trends Cogn. Sci."
+},
+{
+"Year": 2000,
+"Volume": 12,
+"Author": "",
+"Article-title": "Movement and mind: a functional imaging study of perception and interpretation of complex intentional movement patterns",
+"Source": "Neuroimage"
+},
+{
+"Year": 2007,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Baboon Metaphysics: The Evolution of a Social Mind"
+},
+{
+"Year": 1996,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Using Language"
+},
+{
+"Year": 2005,
+"Volume": 48,
+"Author": "",
+"Article-title": "Vagaries of visual perception in autism",
+"Source": "Neuron"
+},
+{
+"Year": 2004,
+"Volume": 305,
+"Author": "",
+"Article-title": "Public information: from nosy neighbors to cultural evolution",
+"Source": "Science"
+},
+{
+"Year": 1978,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœAnimal signals: Information or manipulation?â\u20ac?",
+"Source": "Behavioral Ecology: An Evolutionary Approach"
+},
+{
+"Year": 2010,
+"Volume": 11,
+"Author": "",
+"Article-title": "Exploring human interactive intelligence",
+"Source": "Interact. Stud."
+},
+{
+"Year": 1987,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "The Intentional Stance"
+},
+{
+"Year": 2002,
+"Volume": 47,
+"Author": "",
+"Article-title": "The biology of the dance language",
+"Source": "Annu. Rev. Entomol."
+},
+{
+"Year": 2010,
+"Volume": 49,
+"Author": "",
+"Article-title": "CNS activation and regional connectivity during pantomime observation: no engagement of the mirror neuron system for deaf signers",
+"Source": "Neuroimage"
+},
+{
+"Year": 2006,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Making up the Mind: How the Brain Creates Our Mental World"
+},
+{
+"Year": 2007,
+"Volume": 362,
+"Author": "",
+"Article-title": "The social brain?",
+"Source": "Philos. Trans. R. Soc. Lond., B, Biol. Sci."
+},
+{
+"Year": 2006,
+"Volume": 50,
+"Author": "",
+"Article-title": "The neural basis of mentalizing",
+"Source": "Neuron"
+},
+{
+"Year": 2005,
+"Volume": 29,
+"Author": "",
+"Article-title": "An experimental study of the emergence of human communication systems",
+"Source": "Cogn. Sci."
+},
+{
+"Year": 1998,
+"Volume": 2,
+"Author": "",
+"Article-title": "Mirror neurons and the simulation theory of mind-reading",
+"Source": "Trends Cogn. Sci."
+},
+{
+"Year": 2004,
+"Volume": 7,
+"Author": "",
+"Article-title": "Abnormal cortical voice processing in autism",
+"Source": "Nat. Neurosci."
+},
+{
+"Year": 2001,
+"Volume": 58,
+"Author": "",
+"Article-title": "The role of temporal cues in rhesus monkey vocal recognition: orienting asymmetries to reversed calls",
+"Source": "Brain Behav. Evol."
+},
+{
+"Year": 2003,
+"Volume": 4,
+"Author": "",
+"Article-title": "Neural mechanisms for the recognition of biological movements",
+"Source": "Nat. Rev. Neurosci."
+},
+{
+"Year": 2003,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "The Resilience of Language: What Gesture Creation in Deaf Children Can Tell Us About How All Children Learn Language"
+},
+{
+"Year": 2009,
+"Volume": 30,
+"Author": "",
+"Article-title": "Neural integration of iconic and unrelated coverbal gestures: a functional MRI study",
+"Source": "Hum. Brain Mapp."
+},
+{
+"Year": 1957,
+"Volume": 66,
+"Author": "",
+"Article-title": "Meaning",
+"Source": "Philos. Rev."
+},
+{
+"Year": 1996,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "The Evolution of Communication"
+},
+{
+"Year": 1958,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "The Psychology of Interpersonal Relations"
+},
+{
+"Year": 2007,
+"Volume": 317,
+"Author": "",
+"Article-title": "Humans have evolved specialized skills of social cognition: the cultural intelligence hypothesis",
+"Source": "Science"
+},
+{
+"Year": 2009,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Mothers and Others: The Evolutionary Origins of Mutual Understanding"
+},
+{
+"Year": 1976,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœThe social function of intellect,â\u20ac?",
+"Source": "Growing Points in Ethology"
+},
+{
+"Year": 2005,
+"Volume": 3,
+"Author": "",
+"Article-title": "Grasping the intentions of others with one's own mirror neuron system",
+"Source": "PLoS. Biol."
+},
+{
+"Year": 1973,
+"Volume": 28,
+"Author": "",
+"Article-title": "Processes of causal attribution",
+"Source": "Am. Psychol."
+},
+{
+"Year": 1975,
+"Volume": 82,
+"Author": "",
+"Article-title": "Endogenous exogenous partition in attribution theory",
+"Source": "Psychol. Rev."
+},
+{
+"Year": 2010,
+"Volume": 13,
+"Author": "",
+"Article-title": "Multimodal communication by captive chimpanzees (Pan troglodytes)",
+"Source": "Anim. Cogn."
+},
+{
+"Year": 1995,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœInteractional biases in human thinking,â\u20ac?",
+"Source": "Social Intelligence and Interaction"
+},
+{
+"Year": 2000,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Presumptive Meanings: The Theory of Generalized Conversational Implicature"
+},
+{
+"Year": 2006,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœOn the human interactional engine,â\u20ac?",
+"Source": "Roots of Human Sociality"
+},
+{
+"Year": 2001,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Intentions and Intentionality: Foundations of Social Cognition"
+},
+{
+"Year": 1991,
+"Volume": 98,
+"Author": "",
+"Article-title": "Culture and the self â\u20ac\u201c implications for cognition, emotion, and motivation",
+"Source": "Psychol. Rev."
+},
+{
+"Year": 2004,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœCephalopod skin displays: from concealment to communication,â\u20ac?",
+"Source": "Evolution of Communication Systems"
+},
+{
+"Year": 1995,
+"Volume": 177,
+"Author": "",
+"Article-title": "Animal signals: models and terminology",
+"Source": "J. Theor. Biol."
+},
+{
+"Year": 1972,
+"Volume": 22,
+"Author": "",
+"Article-title": "How and what of why â\u20ac\u201c some determinants and consequences of causal attribution",
+"Source": "J. Pers. Soc. Psychol."
+},
+{
+"Year": 1984,
+"Volume": 46,
+"Author": "",
+"Article-title": "Culture and the development of everyday social explanation",
+"Source": "J. Pers. Soc. Psychol."
+},
+{
+"Year": 2006,
+"Volume": 50,
+"Author": "",
+"Article-title": "Dissociable medial prefrontal contributions to judgments of similar and dissimilar others",
+"Source": "Neuron"
+},
+{
+"Year": 2009,
+"Volume": 111,
+"Author": "",
+"Article-title": "Recipient design in tacit communication",
+"Source": "Cognition"
+},
+{
+"Year": 2003,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Mindreading: an Integrated Account of Pretence, Self-awareness, and Understanding Other Minds"
+},
+{
+"Year": 2009,
+"Volume": 3,
+"Author": "",
+"Article-title": "Brain mechanisms underlying human communication",
+"Source": "Front. Hum. Neurosci."
+},
+{
+"Year": 2010,
+"Volume": 20,
+"Author": "",
+"Article-title": "The shadow of the future affects cooperation in a cleaner fish",
+"Source": "Curr. Biol."
+},
+{
+"Year": 1996,
+"Volume": 76,
+"Author": "",
+"Article-title": "Integration of form and motion in the anterior superior temporal polysensory area (STPa) of the macaque monkey",
+"Source": "J. Neurophysiol."
+},
+{
+"Year": 1998,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Animal Vocal Communication: A New Approach"
+},
+{
+"Year": 2008,
+"Volume": 451,
+"Author": "",
+"Article-title": "Precise auditory-vocal mirroring in neurons for learned vocal communication",
+"Source": "Nature"
+},
+{
+"Year": 1978,
+"Volume": 1,
+"Author": "",
+"Article-title": "Does the chimpanzee have a theory of mind?",
+"Source": "Behav. Brain Sci."
+},
+{
+"Year": 2003,
+"Volume": 358,
+"Author": "",
+"Article-title": "Electrophysiology and brain imaging of biological motion",
+"Source": "Philos. Trans. R. Soc. Lond., B, Biol. Sci."
+},
+{
+"Year": 2000,
+"Volume": 114,
+"Author": "",
+"Article-title": "Proximate factors mediating â\u20acœcontactâ\u20ac? calls in adult female baboons (Papio cynocephalus ursinus) and their infants",
+"Source": "J. Comp. Psychol."
+},
+{
+"Year": 1998,
+"Volume": 21,
+"Author": "",
+"Article-title": "Language within our grasp",
+"Source": "Trends Neurosci."
+},
+{
+"Year": 2007,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœLanguage and mirror neurons,â\u20ac?",
+"Source": "Oxford Handbook of Psycholinguistics"
+},
+{
+"Year": 2009,
+"Volume": 4,
+"Author": "",
+"Article-title": "On the neural control of social emotional behavior",
+"Source": "Soc. Cogn. Affect. Neurosci."
+},
+{
+"Year": 2004,
+"Volume": 42,
+"Author": "",
+"Article-title": "A region of right posterior superior temporal sulcus responds to observed intentional actions",
+"Source": "Neuropsychologia"
+},
+{
+"Year": 2009,
+"Volume": 4,
+"Author": "",
+"Article-title": "Playing charades in the fMRI: are mirror and/or mentalizing areas involved in gestural communication?",
+"Source": "PLoS One"
+},
+{
+"Year": 2009,
+"Volume": 113,
+"Author": "",
+"Article-title": "Signalling signalhood and the emergence of communication",
+"Source": "Cognition"
+},
+{
+"Year": 2007,
+"Volume": 104,
+"Author": "",
+"Article-title": "The emergence of simple languages in an experimental coordination game",
+"Source": "Proc. Natl. Acad. Sci. U.S.A."
+},
+{
+"Year": 1980,
+"Volume": 210,
+"Author": "",
+"Article-title": "Monkey responses to three different alarm calls: evidence of predator classification and semantic communication",
+"Source": "Science"
+},
+{
+"Year": 1948,
+"Volume": 27,
+"Author": "",
+"Article-title": "A mathematical theory of communication",
+"Source": "Bell Syst. Tech. J."
+},
+{
+"Year": 2001,
+"Volume": "",
+"Author": "",
+"Article-title": "",
+"Source": "Relevance: Communication and Cognition"
+},
+{
+"Year": 2010,
+"Volume": 48,
+"Author": "",
+"Article-title": "Social cues, mentalizing and the neural processing of speech accompanied by gestures",
+"Source": "Neuropsychologia"
+},
+{
+"Year": 1995,
+"Volume": 374,
+"Author": "",
+"Article-title": "The major evolutionary transitions",
+"Source": "Nature"
+},
+{
+"Year": 2007,
+"Volume": 104,
+"Author": "",
+"Article-title": "The phi complex as a neuromarker of human social coordination",
+"Source": "Proc. Natl. Acad. Sci. U.S.A."
+},
+{
+"Year": 2006,
+"Volume": "",
+"Author": "",
+"Article-title": "â\u20acœWhy don't apes point?â\u20ac?",
+"Source": "Roots of Human Sociality: Culture, Cognition and Interaction"
+},
+{
+"Year": 2005,
+"Volume": 70,
+"Author": "",
+"Article-title": "The emergence of social cognition in three young chimpanzees",
+"Source": "Monogr. Soc. Res. Child Dev."
+},
+{
+"Year": 2008,
+"Volume": 102,
+"Author": "",
+"Article-title": "Language beyond action",
+"Source": "J. Physiol. Paris"
+},
+{
+"Year": 2004,
+"Volume": 101,
+"Author": "",
+"Article-title": "Perceptual deficits in patients with impaired recognition of biological motion after temporal lobe lesions",
+"Source": "Proc. Natl. Acad. Sci. U.S.A."
+},
+{
+"Year": 2005,
+"Volume": 3,
+"Author": "",
+"Article-title": "Visually inexperienced chicks exhibit spontaneous preference for biological motion patterns",
+"Source": "PLoS Biol."
+},
+{
+"Year": 2008,
+"Volume": 31,
+"Author": "",
+"Article-title": "Goals are not implied by actions, but inferred from actions and contexts",
+"Source": "Behav. Brain Sci."
+},
+{
+"Year": 2004,
+"Volume": 16,
+"Author": "",
+"Article-title": "Understanding intentions in social interaction: the role of the anterior paracingulate cortex",
+"Source": "J. Cogn. Neurosci."
+},
+{
+"Year": 2010,
+"Volume": 21,
+"Author": "",
+"Article-title": "A dissociation between linguistic and communicative abilities in the human brain",
+"Source": "Psychol. Sci."
+},
+{
+"Year": 2008,
+"Volume": 4,
+"Author": "",
+"Article-title": "Game theory of mind",
+"Source": "PLoS Comput. Biol."
+},
+{
+"Year": 2006,
+"Volume": 29,
+"Author": "",
+"Article-title": "Autism, the superior temporal sulcus and social perception",
+"Source": "Trends Neurosci."
+}
+]},
+"sections": {
+"about": "",
+"Section-title": [
+{
+"Details": "In very general terms, animal communication exploits the correlations between signals and the contexts that induce them (Dawkins and Krebs, 1978; Owings and Morton, 1998). Several organisms can extract information from the behavior of other agents, i.e., behavior that inadvertently provides information to onlookers (Danchin et al., 2004; Oates et al., 2010). One popular example, among many others, is given by the calls of vervet monkeys and baboons (Rendall et al., 2000; Seyfarth et al., 1980). It has been shown that they function as contact and alarm calls because eavesdroppers learn to infer location and alarm state of the caller (Cheney and Seyfarth, 2007). The calls are not intentional in the sense that the caller does not seem to predict the context-dependent consequences of the interpretation process occurring in listeners (Rendall et al., 2000). This type of inadvertent communicative behavior appears to rely on fixed associations between sensorimotor events and their communicative implications, i.e., one-to-one matches between physical and semantic properties of an action (Maynard Smith and Harper, 1995). This communicative phenomenon is widespread in the animal world (Bargh et al., 1996; Dyer, 2002; Hauser, 1996; Mather, 2004), and it could be supported by â\u20acœmirrorâ\u20ac? neurons that couple perceived and executed behaviors (Prather et al., 2008). This paper is concerned with a quite different type of communicative behavior, i.e., behaviors whose sole purpose is to have their intentions recognized by another agent (Grice, 1957). We label this type of behavior intentional communication, to distinguish it from the incidental communication described above. Intentional communicative actions, arguably the last major evolutionary transition in the way information is propagated across biological systems (Szathmary and Smith, 1995), appears to build on the ability to use cognitive variables (e.g., mental states like goals and desires) to disambiguate and predict behavior of other agents (Byrne and Bates, 2006; Frith, 2007), a useful tool when faced with the challenge of coping with the mind of other cognitive agents (Humphrey, 1976). There is a long research tradition on how we could recognize intentions in behaviors (Frith, 2006; Heider, 1958; Kelley, 1973; Kruglanski, 1975; Malle et al., 2001; Mcarthur, 1972; Nichols and Stich, 2003), and it has become clear that this ability is already computationally complex even under extremely simplified experimental scenarios (Baker et al., 2009; van Rooij et al., 2008; Yoshida et al., 2008). Intentional communication goes well beyond those scenarios, requiring the ability to signal onesâ\u20ac™ own intentions, i.e., to select which of an indefinite number of possible behaviors is most likely to be interpreted by a recipient as conveying a particular communicative intention, given the current commonly known knowledge [common ground, (Clark, 1996)]. Yet, some scholars have ignored this complexity, trying to reduce human communication to the coding-decoding of a conventional message (Rizzolatti and Craighero, 2007; Shannon, 1948; Tognoli et al., 2007). Even if this exhausted the nature of human communication, this account would not explain how we could build such conventions in the first place. Yet children do it, without prior knowledge of those conventions, up to the point of inventing new languages when deprived of a pre-existing one (Goldin-Meadow, 2003). In fact, all human communication rests on an inferential base, on top of which the coded message rides, otherwise ironies, sarcasms, hints, and indirections would pass us by. Nor are we troubled by the vagueness or multiple ambiguities and semantic generalities in every utterance (Levinson, 2000; Sperber and Wilson, 2001). The same system that resolves the coded messages probably lies behind our ability to communicate without any pre-existing conventions at all, as in the gestures one might use behind the bossâ\u20ac™ back, or to signal to others out of earshot. A number of converging paths of evidence suggest that this faculty is distinct from our language abilities, and is ontogenetically and phylogenetically prior to language (Levinson, 2006), yet at the same time constitutes the foundation for effective language use. Here we illustrate some of the complexities inherent in studying the cognitive and cerebral bases of this faculty, focusing on one of the first neurophysiological studies dealing with the production of human communicative actions (Noordzij et al., 2009), and delineating research lines opened up by those results (see also (de Ruiter et al., 2010; Newman-Norlund et al., 2009; Willems et al., 2010) and http://www.frontiersin.org/human_neuroscience/specialtopics/understanding_human_intentiona/64.",
+"content": "Incidental and Intentional Communication"
+},
+{
+"Details": "In order to understand our capacity to generate and interpret communicative actions, it might be useful to consider how it could emerge from the combination of simpler and experimentally tractable cognitive processes, using the layout suggested by communicative skills we share with different taxa along our line of descent (Byrne, 1995; Herrmann et al., 2007). For instance, human communicators share with other vertebrates the inferential mechanisms involved in identifying other biological agents from dynamic sensory stimuli (Blake, 1993; Oram and Perrett, 1996; Vallortigara et al., 2005). Well-studied examples are the ability to infer visual patterns of limb articulation from point-light displays (Puce and Perrett, 2003) or acoustic patterns of vocal identities from non-linguistic sounds (Gervais et al., 2004; Ghazanfar et al., 2001). Being so basic and evolutionarily preserved, it is tempting to speculate that developmental alterations in these perceptual mechanisms, as found in Autism Spectrum Disorders patients (Dakin and Frith, 2005; Zilbovicius et al., 2006), might have serious consequences for human social behavior. Both human psychophysics and computational models have suggested that perception of biological motion relies on extracting sequences of postures on the basis of dynamic form templates (Beintema and Lappe, 2002; Giese and Poggio, 2003; Vaina and Gross, 2004). This process can then be used for action segmentation (Baird and Baldwin, 2001; Baldwin and Baird, 2001). Accordingly, it appears relevant to test whether the basic inferential mechanisms involved in identifying other biological agents could also provide a viable computational substrate for parsing a string of movements into communicative versus instrumental segments, and whether these mechanisms are used for both perception and selection of communicative actions.Even if these basic perceptual processes could support the parsing problem faced by a communicator (i.e., â\u20acœHow can I mark the communicative elements of an action within a continuous stream of instrumental actions so they can be parsed by a recipientâ\u20ac?), the brain still needs to resolve the mutual dependencies between that parsing problem and the meaning-mapping problem (i.e., â\u20acœGiven an intended meaning, which action would have the best chance of being correctly interpreted as an attempt to communicate that particular intended meaning?â\u20ac?). In this context, it might be relevant to move beyond basic perceptual mechanisms, and consider a different level of analysis, namely the ability to deal with mental states (Frith and Frith, 2006). To illustrate some of the complexities inherent in this level of analysis, imagine a customer in a bar grasping an empty glass from a table and raising it in the air, while looking at the bartender. Raising the glass for ordering a drink is a motorically simple action that belies the complex cognitive structures that underlie it, not to mention the largely unknown neurophysiological mechanisms supporting them. First, the customer needs to build a conceptual model of the bartender [including a Theory of Mind (Call and Tomasello, 2008; Premack and Woodruff, 1978)], assuming for instance that the person behind the bar-counter is willing to serve drinks on demand, at that particular time of the day, remembering previous orders, etc. Second, the customer needs to keep online this conceptual model of the bartender, without confusing it with his own factual knowledge. For instance, when looking at the bartender, the customer should not confuse the momentary lack of vision of his own raised hand with the clear line of sight between the bartender gaze and the empty glass. Third, the customer needs to keep those pieces of knowledge separate from another crucial element, his knowledge of what he and the bartender presumably and mutually know and believe (Clark, 1996). For instance, the customer needs to keep into account that both customer and bartender are informed about the glass being empty (so that the glass-raising action cannot be confused with toasting). This feat of representational capacity, an example of a third-order intentional system (Dennett, 1987), is arguably the simplest system that could support genuine intentional communication (Grice, 1957), and it involves a three-way relation between sender, receiver, and behavior (Baron-Cohen, 1995; Tomasello and Carpenter, 2005). The crucial point here is that, for intentional communication to occur, the glass-raising movement needs to be processed together with the mental structures it is designed to evoke in the communicators. Put differently, the meaning conveyed by the raised glass is not an intrinsic property of that action, as implied by some recent accounts of human communication (Iacoboni et al., 2005). Without denying the relevance of simpler forms of communication, like imperative pointing (Leavens et al., 2010; Tomasello, 2006), third-order intentional systems raise the issue of how our brain manages to integrate these time-varying and hierarchical relations between observable, planned, and un-observable events. How can the human brain solve the context-dependency of communicative behaviors without collapsing under the astronomical computational demands entailed by this type of problem (van Rooij et al., 2010 under revision)? How are these processes, and in particular the considerable cognitive control they entail, influenced by motivational drives toward prosocial behavior (Hrdy, 2009; Roelofs et al., 2009)? Is the manipulation of these mental structures supported by dedicated cerebral circuits as hypothesized for other social constructs (Adolphs, 2009), or is it an instance of our ability to guide first-person behavior on the basis of mental models and future goals (Behrens et al., 2009)?",
+"content": "Cognitive and Neural Mechanisms for Selecting Intentional Communicative Actions"
+},
+{
+"Details": "We have started to address some of the issues introduced above in a recent report (Noordzij et al., 2009), using an experimental situation in which people have to communicate in the absence of an a priori common code (de Ruiter et al., 2010). We used this apparently artificial scenario in order to give emphasis to those mechanisms that create new communicative behaviors, rather than the utilization of existing conventions. The rationale was that in the absence of an a priori common code, the selection of an effective communicative behavior needs to rely on some heuristics that constrain a potentially infinite search-space (Levinson, 1995). The study is based on the insight that a communicator could solve this problem by predicting how a particular addressee will interpret a given behavior. We have tested the nature of this prediction, assessing whether the sender of a signal uses his own intention recognition system to predict the intention recognition performed by the addressee (or receiver). A neurophysiological test of this hypothesis involves the ability to directly compare cerebral responses supporting both the production and the comprehension of communicative actions. Accordingly, we have measured behavioral and cerebral responses (with functional magnetic resonance imaging, fMRI) in subject pairs engaged in communicative exchange. In contrast to recent studies that have addressed human communicative abilities using pre-existing communicative conventions (Emmorey et al., 2010; Green et al., 2009; Schippers et al., 2009; Straube et al., 2010; Walter et al., 2004), here we prevented the participants from using those conventions, forcing them to generate and interpret new communicative visuomotor behaviors (see also (Galantucci, 2005; Scott-Phillips et al., 2009; Selten and Warglien, 2007)).Subject pairs played the Tacit Communication Game (TCG, (de Ruiter et al., 2010)). In the TCG two players (called the sender and the receiver) are told they have to re-create a spatial configuration of two simple geometrical objects (one for the sender and one for the receiver) on a game board. The crucial manipulations are that the sender initially sees the spatial configuration, while the receiver doesn't, and that the sender consequently has to communicate the position and orientation of the object of the receiver by means of moving his own object. Similar to Galantucci's study (Galantucci, 2005), we force people to communicate with an unconventional communicative tool (i.e., moving a simple geometrical shape), thereby creating a situation without pre-existing communicative conventions (Figure 1). Using an event-related fMRI design, we can isolate cerebral activity evoked when planning a communicative action (Figure 1: phase 2, sender column), and when interpreting the meaning of that action (Figure 1: phase 4. receiver column).The results indicate that planning communicative actions (by a sender) and recognizing the communicative intention of the same actions (by a receiver) relies on spatially overlapping portions of their brains. These cerebral responses, in both sender and receiver, were localized in the right posterior superior temporal sulcus (pSTS, Figures 1A,D), a region previously associated with attribution of intention (Castelli et al., 2000; Saxe et al., 2004), and they were independent from sensory inputs and motor outputs (Figures 1F,H). The response profile of the pSTS points to a contribution confined to planning and comprehension of communicative actions, being absent during the speeded execution of those communicative actions. It remains to be seen whether the pSTS response is driven by the incorporation of a model of the communicative partner into the action parsing procedures.",
+"content": "A Case Study of Brain Mechanisms Underlying Human Communication"
+},
+{
+"Soft-title": "Discussions and Conclusions",
+"Details": "These findings support the hypothesis that, in humans, planning communicative acts relies on a conceptual prediction of the intention recognition in a receiver, rather than on simulation mechanisms based on the sender's sensorimotor system (Toni et al., 2008). By studying human intentional communication within an experimental context that respects its complexities, it has become clear that the supporting cerebral infrastructure does not overlap with the â\u20acœmirror neuronsâ\u20ac? thought to provide an account of intersubjectivity (Gallese and Goldman, 1998; Rizzolatti and Arbib, 1998). The predictive mechanism discussed here appears to have general relevance, playing also a role in ordinary language use, by disambiguating and elaborating inferred intent (as in Grice's theory of meaningNN (Grice, 1957)) through interactions with a culturally modulated â\u20acœmentalizingâ\u20ac? system involved in the generation of social constructs (Frith and Frith, 2006; Markus and Kitayama, 1991; Miller, 1984; Mitchell et al., 2006). Future research could explore whether and how this Gricean mechanism might have supported the communicative infrastructure that has been crucial to language development in both ontogeny and phylogeny (Levinson, 2006).",
+"content": "Conclusions"
+},
+{
+"Details": "The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+"content": "Conflict of Interest Statement"
+}
+]
+}
+}}
