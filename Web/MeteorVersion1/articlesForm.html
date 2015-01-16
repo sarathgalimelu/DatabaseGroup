@@ -1,0 +1,45 @@
+<head>
+  <title>mytest</title>
+</head>
+
+<body>
+  {{> hello}}
+</body>
+
+<template name="hello">
+  <h1>Hello World!</h1>
+  {{greeting}}
+  <input type="button" value="Click" />
+  <img src='/flower.jpg'/>
+</template>
+
+<!--<head>
+  
+</head>
+
+<body>
+  <h1>Articles list in AthenaDB</h1>
+  {{> articles_list}}
+</body>
+
+<template name="articles_list">
+  
+    {{#each article}}
+     <ul>
+      {{> articles_info}}
+     </ul> 
+    {{else}}
+      No articles yet athenaBD
+    {{/each}}  
+       
+</template>
+
+
+<template name="articles_info">
+    
+    <li>
+        {{abstract}}
+    </li>
+    
+</template>
+-->
