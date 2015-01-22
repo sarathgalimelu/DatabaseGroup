@@ -1,0 +1,34 @@
+<template name="articlesTemplate">
+    <ul>
+     hello something!
+     <h3>List of available articles</h3>
+      {{#each articles}} <!--{{#each articlesTemplate}}-->
+              
+        {{>articlesInfo}}
+      {{else}}
+        there is nothing in articles database
+      
+      {{/each}}
+    </ul>
+    
+</template>
+
+<template name="articlesInfo">
+    <br/>
+    <li>
+        <b>DOI:</b>  {{DOI}} 
+        
+    </li>
+    
+    
+    
+</template>
+
+
+
+
+
+
+
+
+
