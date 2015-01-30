@@ -13,10 +13,7 @@ if (Meteor.isClient) {
 
 if (Meteor.isServer) {
     
-   var data1 = Assets.getText("fnins2010001881.json");
-    
-   // showing json file scontent in the server console
-   console.log(data1);
+   
    Meteor.startup(function () {
     
     

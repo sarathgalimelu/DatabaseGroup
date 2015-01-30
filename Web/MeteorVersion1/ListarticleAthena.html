@@ -1,0 +1,60 @@
+<head>
+  <title>articleAthena</title>
+</head>
+
+<body>
+  <h1>Welcome to Athena Project!</h1>
+
+  {{>articleTemplate}}
+</body>
+
+
+
+<template name="articleTemplate">
+    <ul>
+     <h3> List of available articles: PLOS articless</h3>
+     
+      
+     
+     {{#each article}}
+      
+        {{>articles_info}}
+        
+     {{else}}
+        the data base articlestest is empty
+      
+    {{/each}}
+    
+    </ul>
+  
+</template>
+
+
+<template name="articles_info">
+    <br/>
+    <li>
+        <b>Article_DOI:</b>{{article.bibliography.article_doi}}
+        
+    </li>
+    <li>
+        <b>Article_Title:</b>{{article.bibliography.article_title}}
+        
+    </li>
+    
+    <li>
+        <b>Journal_Title:</b>{{article.bibliography.journal_title}}
+        
+    </li>
+    <li> 
+        <b>Abstract:</b>{{article.bibliography.abstract}}
+        
+    </li>
+    <li>
+        <b>References_Title_1:</b>{{article.References.Ref.[0].Article_title}}
+        
+    </li>
+	
+    
+	
+    
+</template>
