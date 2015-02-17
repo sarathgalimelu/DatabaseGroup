@@ -1,0 +1,45 @@
+<head>
+  <title>FirstSearch</title>
+</head>
+
+<body>
+  	<div id="outer">
+	    {{> search}}
+	</div>
+</body>
+
+<template name="search">
+    <div class="search-input">
+        {{> esInput index="text" id="search" placeholder="Search articles..." convertnumber=true }}
+    </div>
+
+    {{#ifEsIsSearching index="text" id="search" logic="OR" }}
+        <div>Searching...</div>
+    {{/ifEsIsSearching}}
+
+    <div class="search">
+        {{#ifEsInputIsEmpty index="text" id="search" }}
+            <div class="please-search">There are {{allDocs}} documents for search available. </div>
+        {{/ifEsInputIsEmpty}}
+
+        {{#esEach index="text" id="search"}}
+            {{> article}}
+        {{/esEach}}
+
+        {{#ifEsHasNoResults index="text" id="search" logic="OR" }}
+            <div class="no-results">No results found!</div>
+        {{/ifEsHasNoResults}}
+
+        {{! > esLoadMoreButton index="text" id="search" }}
+        {{> esPagination index="text" id="search" }}
+    </div>
+</template>
+
+<template name="article">
+    <br/>
+    <li>
+        <b>Article_DOI:</b>{{article.bibliography.article_doi}} 
+    </li>
+</template>
+
+
