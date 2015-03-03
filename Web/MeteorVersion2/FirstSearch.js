@@ -32,9 +32,10 @@ if (Meteor.isServer) {
         return Articles.find().count();
       }
     });
+    //Articles._ensureIndex({'article.bibliography.article_doi': 1}); 
 	Meteor.publish('allDocs', function () {
       return [
-        Articles.find({}, { limit: 10 })
+        Articles.find({}, { limit: 10 })//.sort({'article.bibliography.article_doi': 1})
         
       ];
     });
@@ -44,11 +45,23 @@ if (Meteor.isServer) {
 // Search Index for the articles search
 EasySearch.createSearchIndex('text', {
   'collection': Articles, // instanceof Meteor.Collection
-  'field': ['article.bibliography.article_doi', 'article.bibliography.article_doi','article.bibliography.abstract', 'article.sections.section.Section_title.content', 'article.sections.section.Section_Details.content'],
+  'field': ['article.bibliography.article_doi', 'article.bibliography.article_title','article.bibliography.article_pub_year','article.bibliography.abstract', 'article.sections.section.Section_title.content', 'article.sections.section.Section_Details.content'],
   'limit': 10,
   'use' : 'mongo-db',
   'convertNumbers': true,
-   
+   'props': {
+    'filteredCategory': 'All',
+    'sortBy': ['article.sections.section.Section_Details.content','article.bibliography.article_doi']
+  },
+  'sort': function() {
+    if (this.props.sortBy === 'article.sections.section.Section_Details.content') {
+      return { 'article.sections.section.Section_Details.content': 1};
+    }  
+    
+    else if(this.props.sortBy === 'article.bibliography.article_doi' ) {
+      return { 'article.bibliography.article_doi': 1};
+    }
+    },
   
   'query': function(searchString, opts) {
     // Default query that will be used for the mongo-db selector
